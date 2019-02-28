@@ -1,3 +1,5 @@
+//No son funciones
+
 #include<iostream>
 using namespace std;
 

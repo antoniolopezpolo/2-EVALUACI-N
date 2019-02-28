@@ -1,3 +1,5 @@
+//Nolo has hecho en forma de función
+
 #include<iostream>
 #include <conio.h> 
 #include <string.h> 
